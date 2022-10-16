@@ -1,0 +1,12 @@
+body{
+	text-align:center; 
+	font-family:sans-serif; 
+	color:#eb8f34; 
+}
+h1{
+	font-size:8rem;
+	text-shadow: 10px 5px 5px grey; 
+}
+p{
+	font-size:2rem;
+}
